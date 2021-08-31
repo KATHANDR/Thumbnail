@@ -1,8 +1,5 @@
   
 import React from 'react';
-import 'video-react/dist/video-react.css';
-import { Player, Shortcut } from 'video-react';
-
 
 function Video() {
     return (
